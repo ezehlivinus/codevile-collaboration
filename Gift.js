@@ -1,5 +1,5 @@
-let mySelf = {
+let my_Self = {
     firstName: 'Gift',
     lastName: 'Chinwendu'
 }
-console.table(mySelf)
+console.table(my_Self)
